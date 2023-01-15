@@ -1,4 +1,4 @@
-!#/usr/bin/env bash
+#!/usr/bin/env bash
 echo -e "\tTeste\n\v\t\tCom\n\v\t\t\tVariáveis\n"
 primeira="Variavél 1"
 segunda="Variável 2"
