@@ -1,5 +1,10 @@
 #!/usr/bin/env bash
 
+# O comando test pode ser substituido por [[  ]]
+# Por exemplo: test "$variavel" = "outravariavel"
+# É igual a [[ "$variavel" = "outravariavel" ]] -> Usar espaços antes e depois do conteúdo
+# As duas formas fazem a mesma coisa.
+
 echo -e "Bem vindo ao Metaform, seus dados estão seguros! =)"
 sleep 3
 echo -e "Nome de usuário: $USER"
