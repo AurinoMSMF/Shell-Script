@@ -1,2 +1,2 @@
-# Shell-Script-b-sico
-Codigos iniciais em shell script
+# Shell-Script
+Codigos básicos em shell script
